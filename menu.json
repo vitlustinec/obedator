@@ -1,18 +1,18 @@
 {
   "date": "2025-03-27",
-  "generatedAt": "2025-03-27T12:20:19.691Z",
+  "generatedAt": "2025-03-27T12:24:09.930Z",
   "restaurants": [
     {
       "name": "Panoramico",
-      "menu": "Nepoda?ilo se na??st menu."
+      "menu": "Nepoda?ilo se na??st menu z API Panoramico."
     },
     {
       "name": "To je j?delna",
-      "menu": "To je J?delna &#8211; Denn? bistro s kav?rnou\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W9SD757');\n\n\n\n\n            \n        \n        \n        \n        \n        \n        \n    \n    \n    \n        !function(f,b,e,v,n,t,s)\n        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n            n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n            n.queue=[];t=b.createElement(e);t.async=!0;\n            t.src=v;s=b.getElementsByTagName(e)[0];\n            s.parentNode.insertBefore(t,s)}(window, document,'script',\n            'https://connect.facebook.net/en_US/fbevents.js');\n        fbq('init', '642481912919929');\n        fbq('track', 'PageView');"
+      "menu": "Nepoda?ilo se na??st menu."
     },
     {
       "name": "K&K",
-      "menu": "KK REST\n        \n        \n        \n\n            \n    \n            \n        \n            \n                \n                    \n                \n                \n                    \n                \n\n                \n                    \n                        \n                            Denn? menu\n                        \n                        \n                            Otev?rac? doba\n                        \n                        \n                            Fotogalerie\n                        \n                        \n                            Kontakt\n                        \n                        \n                            \n                                \n                            \n                        \n                    \n                \n            \n        \n    \n\n    \n        \n            \n                \n                    \n                \n            \n            \n                \n            \n        \n\n        \n            \n                Otev?rac? doba\n                \n                    \n                        \n                            \n                            \n                                \n                                sn?dan?\n                                ob?dy\n                            \n                            \n                                Pond?l?\n                                7:00 - 9:30\n                                10:30 - 13:00"
+      "menu": ""
     }
   ]
 }
