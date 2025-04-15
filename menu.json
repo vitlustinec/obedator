@@ -1,6 +1,6 @@
 {
   "date": "2025-04-15",
-  "generatedAt": "2025-04-15T10:10:24.063Z",
+  "generatedAt": "2025-04-15T22:10:24.012Z",
   "restaurants": [
     {
       "name": "Panoramico",
@@ -12,7 +12,7 @@
     },
     {
       "name": "K&K",
-      "menu": ""
+      "menu": "Nepoda?ilo se na??st menu."
     }
   ]
 }
